@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+requests
+aiohttp
+m3u8
+pyromod
