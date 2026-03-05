@@ -1,0 +1,11 @@
+{
+  "name": "Latest Uploader Bot",
+  "description": "Telegram Video Uploader Bot",
+  "repository": "https://github.com/yourusername/latest-uploader",
+  "keywords": ["telegram", "bot", "uploader"],
+  "env": {
+    "API_ID": "25531611",
+    "API_HASH": "2f63a48be678dfea4ad03e495377403f",
+    "BOT_TOKEN": "7745634930:AAEz-sQvDSQKW05HBKEqvzq9vgo3HkBW-WM"
+  }
+}
